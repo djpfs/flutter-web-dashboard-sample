@@ -1,6 +1,6 @@
-# dash_web
+# Banking App Dashboard
 
-A new Flutter project.
+UI Clone from dribbble.com https://dribbble.com/shots/12121504-Banking-App-Dashboard with creator authorization.
 
 ## Getting Started
 
