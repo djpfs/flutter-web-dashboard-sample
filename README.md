@@ -1,7 +1,6 @@
 # Banking App Dashboard
 
-UI Clone from dribbble.com https://dribbble.com/shots/12121504-Banking-App-Dashboard with creator authorization.
-
+UI Clone from dribbble.com https://dribbble.com/shots/12121504-Banking-App-Dashboard
 ## Getting Started
 
 This project is a starting point for a Flutter application.
